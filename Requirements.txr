@@ -4,4 +4,6 @@ joblib
 numpy
 pandas
 PyPDF2
+docx2txt
+re
                        
