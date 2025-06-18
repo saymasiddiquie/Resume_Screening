@@ -5,6 +5,5 @@ numpy
 pandas
 PyPDF2
 nltk
-re
     
                        
