@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+PyPDF2
+docx2txt
+imbalanced-learn
+joblib
+
+                       
